@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int a[600][600];
+int a;
 
 int main(){
     int n,m;
